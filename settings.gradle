@@ -16,3 +16,7 @@ rootProject.name = "Prácticas PMDM"
 include ':guiada4a'
 include ':guiada4b'
 include ':guiada3'
+include ':guiada5'
+include ':guiada6'
+include ':actividad1'
+include ':actividad2'

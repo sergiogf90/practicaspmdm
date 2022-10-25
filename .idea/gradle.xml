@@ -10,9 +10,13 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/actividad1" />
+            <option value="$PROJECT_DIR$/actividad2" />
             <option value="$PROJECT_DIR$/guiada3" />
             <option value="$PROJECT_DIR$/guiada4a" />
             <option value="$PROJECT_DIR$/guiada4b" />
+            <option value="$PROJECT_DIR$/guiada5" />
+            <option value="$PROJECT_DIR$/guiada6" />
           </set>
         </option>
       </GradleProjectSettings>
